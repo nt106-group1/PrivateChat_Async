@@ -1,0 +1,10 @@
+D:\NT106\PrivateChat\LMCB_TestForm\bin\Debug\LMCB_TestForm.exe.config
+D:\NT106\PrivateChat\LMCB_TestForm\bin\Debug\LMCB_TestForm.exe
+D:\NT106\PrivateChat\LMCB_TestForm\bin\Debug\LMCB_TestForm.pdb
+D:\NT106\PrivateChat\LMCB_TestForm\obj\Debug\ClientForm.csproj.AssemblyReference.cache
+D:\NT106\PrivateChat\LMCB_TestForm\obj\Debug\LMCB_TestForm.Form1.resources
+D:\NT106\PrivateChat\LMCB_TestForm\obj\Debug\LMCB_TestForm.Properties.Resources.resources
+D:\NT106\PrivateChat\LMCB_TestForm\obj\Debug\ClientForm.csproj.GenerateResource.cache
+D:\NT106\PrivateChat\LMCB_TestForm\obj\Debug\ClientForm.csproj.CoreCompileInputs.cache
+D:\NT106\PrivateChat\LMCB_TestForm\obj\Debug\LMCB_TestForm.exe
+D:\NT106\PrivateChat\LMCB_TestForm\obj\Debug\LMCB_TestForm.pdb

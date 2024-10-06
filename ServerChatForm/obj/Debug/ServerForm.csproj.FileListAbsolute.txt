@@ -1,0 +1,10 @@
+D:\NT106\PrivateChat\ServerChatForm\bin\Debug\ServerChatForm.exe.config
+D:\NT106\PrivateChat\ServerChatForm\bin\Debug\ServerChatForm.exe
+D:\NT106\PrivateChat\ServerChatForm\bin\Debug\ServerChatForm.pdb
+D:\NT106\PrivateChat\ServerChatForm\obj\Debug\ServerForm.csproj.AssemblyReference.cache
+D:\NT106\PrivateChat\ServerChatForm\obj\Debug\ServerChatForm.Form1.resources
+D:\NT106\PrivateChat\ServerChatForm\obj\Debug\ServerChatForm.Properties.Resources.resources
+D:\NT106\PrivateChat\ServerChatForm\obj\Debug\ServerForm.csproj.GenerateResource.cache
+D:\NT106\PrivateChat\ServerChatForm\obj\Debug\ServerForm.csproj.CoreCompileInputs.cache
+D:\NT106\PrivateChat\ServerChatForm\obj\Debug\ServerChatForm.exe
+D:\NT106\PrivateChat\ServerChatForm\obj\Debug\ServerChatForm.pdb
